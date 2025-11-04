@@ -1,0 +1,12 @@
+[
+    {
+        "username": "miiassarm",
+        "email": "miiassarm@gmail.com",
+        "is_active": true
+    },
+    {
+        "username": "sarvinoz04",
+        "email": "usmonovaa@gmail.com",
+        "is_active": false
+    }
+]
